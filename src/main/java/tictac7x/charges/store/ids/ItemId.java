@@ -989,6 +989,14 @@ public final class ItemId {
     public static final int LEAPING_TROUT = ItemID.BRUT_SPAWNING_TROUT;
     public static final int LEAPING_SALMON = ItemID.BRUT_SPAWNING_SALMON;
     public static final int LEAPING_STURGEON = ItemID.BRUT_STURGEON;
+    public static final int RAW_SWORDTIP_SQUID = ItemID.RAW_SWORDTIP_SQUID;
+    public static final int RAW_JUMBO_SQUID = ItemID.RAW_JUMBO_SQUID;
+    public static final int RAW_GIANT_KRILL  = ItemID.RAW_GIANT_KRILL ;
+    public static final int RAW_HADDOCK  = ItemID.RAW_HADDOCK ;
+    public static final int RAW_YELLOWFIN  = ItemID.RAW_YELLOWFIN ;
+    public static final int RAW_HALIBUT  = ItemID.RAW_HALIBUT ;
+    public static final int RAW_BLUEFIN  = ItemID.RAW_BLUEFIN ;
+    public static final int RAW_MARLIN  = ItemID.RAW_MARLIN ;
     public static final int RAW_KARAMBWAN = ItemID.TBWT_RAW_KARAMBWAN;
     public static final int RAW_SEA_TURTLE = ItemID.RAW_SEATURTLE;
     public static final int RAW_MANTA_RAY = ItemID.RAW_MANTARAY;
@@ -1188,9 +1196,9 @@ public final class ItemId {
     public static final int OAK_PLANK = ItemID.PLANK_OAK;
     public static final int TEAK_PLANK = ItemID.PLANK_TEAK;
     public static final int MAHOGANY_PLANK = ItemID.PLANK_MAHOGANY;
-    public static final int CAMPHOR_PLANK = ItemID.CAMPHOR_PLANK;
-	public static final int IRONWOOD_PLANK = ItemID.IRONWOOD_PLANK;
-	public static final int ROSEWOOD_PLANK = ItemID.ROSEWOOD_PLANK;
+    public static final int CAMPHOR_PLANK = ItemID.PLANK_CAMPHOR;
+	public static final int IRONWOOD_PLANK = ItemID.PLANK_IRONWOOD;
+	public static final int ROSEWOOD_PLANK = ItemID.PLANK_ROSEWOOD;
     public static final int SAWMILL_VOUCHER = ItemID.FORESTRY_SAWMILL_VOUCHER;
 
     // Quetzal whistle
